@@ -152,3 +152,4 @@
 [27-Sep-2024 10:27:38 UTC] Automatic updates complete.
 [27-Sep-2024 11:08:32 UTC] Automatic updates starting...
 [27-Sep-2024 11:08:32 UTC] Automatic updates complete.
+[27-Sep-2024 16:30:34 UTC] PHP Notice:  La fonction register_taxonomy a été appelée de façon <strong>incorrecte</strong>. La propriété « name » de la taxonomie « format » (format) ne fonctionne pas avec l’une des propriétés déjà existantes sur le contrôleur de publications de l’API REST. Spécifiez une « rest_base » personnalisée lors de l’enregistrement de la taxonomie pour éviter cette erreur. Veuillez lire <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Débogage dans WordPress</a> (en) pour plus d’informations. (Ce message a été ajouté à la version 5.4.0.) in /Users/florinejacquard/Local Sites/p11photo/app/public/wp-includes/functions.php on line 6085
