@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Advanced Custom Fields (ACF) - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-26 10:07:49+0000\n"
+"PO-Revision-Date: 2024-09-26 13:59:51+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,6 +34,12 @@ msgstr "Le champ ACF demandé n’est pas autorisé à être affiché via les bi
 #: includes/api/api-template.php:1077
 msgid "The requested ACF field type does not support output in bindings or the ACF Shortcode."
 msgstr "Le type de champ ACF demandé ne prend pas en charge l’affichage via les bindings ou le code court ACF."
+
+#. translators: %s A "Learn More" link to documentation explaining the setting
+#. further.
+#: includes/fields/class-acf-field.php:340
+msgid "Allow content editors to access and display the field value in the editor UI using Block Bindings or the ACF Shortcode. %s"
+msgstr "Autoriser aux éditeurs et éditrices de contenu d’accéder à la valeur du champ et de l’afficher dans l’interface de l’éditeur en utilisant les blocs bindings ou le code court ACF. %s"
 
 #: includes/api/api-template.php:1054
 msgid "[The ACF shortcode cannot display fields from non-public posts]"
